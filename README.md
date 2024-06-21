@@ -7,6 +7,8 @@
 - Classe Model com os atributos da tarefa (id, nome e descrição).
 - Classe Enum com os Estados: Criado, Em Progresso, Concluído, Cancelado.
 - Classe Controller para gerenciar os estados das tarefas.
+- Classes para conexão com o banco de dados.
+- Classes que preparam o ambiente para o funcionamento do projeto.
 
 ## Endpoints RESTful
 - POST /Tarefa (Cria a tarefa).
@@ -16,7 +18,7 @@
 <br> PUT /Tarefa/{id}/cancelada (Cancela a tarefa);
 <br> GET /Tarefa/{id} (Pesquisa).
 
-## Explicação do Código
+## Explicação do Projeto
 ⚠ Atenção: Tarefa sempre ter que ser CRIADA para passar para os outros Estados.
 - Tarefa Criada pode passar para os Estados Em Progresso e depois Concluída. (Tarefa Concluída, não pode ser Cancelada).
 - Tarefa Criada não pode passar direto para o Estado Concluída, tem que primeiro passar para o Estado Em Progresso. 
