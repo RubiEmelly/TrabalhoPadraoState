@@ -1,0 +1,165 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Aluno\\Desktop\\TarefasStatus\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3CE9C30F-0A8A-4E58-B732-9C6238E23286}|TarefasStatus.csproj|c:\\users\\aluno\\desktop\\tarefasstatus\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CE9C30F-0A8A-4E58-B732-9C6238E23286}|TarefasStatus.csproj|solutionrelative:startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CE9C30F-0A8A-4E58-B732-9C6238E23286}|TarefasStatus.csproj|c:\\users\\aluno\\desktop\\tarefasstatus\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CE9C30F-0A8A-4E58-B732-9C6238E23286}|TarefasStatus.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CE9C30F-0A8A-4E58-B732-9C6238E23286}|TarefasStatus.csproj|c:\\users\\aluno\\desktop\\tarefasstatus\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3CE9C30F-0A8A-4E58-B732-9C6238E23286}|TarefasStatus.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CE9C30F-0A8A-4E58-B732-9C6238E23286}|TarefasStatus.csproj|c:\\users\\aluno\\desktop\\tarefasstatus\\model\\tarefasmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CE9C30F-0A8A-4E58-B732-9C6238E23286}|TarefasStatus.csproj|solutionrelative:model\\tarefasmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CE9C30F-0A8A-4E58-B732-9C6238E23286}|TarefasStatus.csproj|c:\\users\\aluno\\desktop\\tarefasstatus\\model\\enum\\tarefastatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CE9C30F-0A8A-4E58-B732-9C6238E23286}|TarefasStatus.csproj|solutionrelative:model\\enum\\tarefastatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CE9C30F-0A8A-4E58-B732-9C6238E23286}|TarefasStatus.csproj|c:\\users\\aluno\\desktop\\tarefasstatus\\data\\statusdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CE9C30F-0A8A-4E58-B732-9C6238E23286}|TarefasStatus.csproj|solutionrelative:data\\statusdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CE9C30F-0A8A-4E58-B732-9C6238E23286}|TarefasStatus.csproj|c:\\users\\aluno\\desktop\\tarefasstatus\\controllers\\tarefacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CE9C30F-0A8A-4E58-B732-9C6238E23286}|TarefasStatus.csproj|solutionrelative:controllers\\tarefacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CE9C30F-0A8A-4E58-B732-9C6238E23286}|TarefasStatus.csproj|c:\\users\\aluno\\desktop\\tarefasstatus\\tarefasstatus.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3CE9C30F-0A8A-4E58-B732-9C6238E23286}|TarefasStatus.csproj|solutionrelative:tarefasstatus.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CE9C30F-0A8A-4E58-B732-9C6238E23286}|TarefasStatus.csproj|c:\\users\\aluno\\desktop\\tarefasstatus\\migrations\\20240621113143_criarbanco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CE9C30F-0A8A-4E58-B732-9C6238E23286}|TarefasStatus.csproj|solutionrelative:migrations\\20240621113143_criarbanco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TarefasModel.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\TarefasStatus\\Model\\TarefasModel.cs",
+              "RelativeDocumentMoniker": "Model\\TarefasModel.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\TarefasStatus\\Model\\TarefasModel.cs",
+              "RelativeToolTip": "Model\\TarefasModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T12:03:44.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TarefaStatus.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\TarefasStatus\\Model\\Enum\\TarefaStatus.cs",
+              "RelativeDocumentMoniker": "Model\\Enum\\TarefaStatus.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\TarefasStatus\\Model\\Enum\\TarefaStatus.cs",
+              "RelativeToolTip": "Model\\Enum\\TarefaStatus.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T12:03:41.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\TarefasStatus\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\TarefasStatus\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-21T11:30:22.265Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\TarefasStatus\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\TarefasStatus\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T11:21:27.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\TarefasStatus\\Startup.cs",
+              "RelativeDocumentMoniker": "Startup.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\TarefasStatus\\Startup.cs",
+              "RelativeToolTip": "Startup.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T11:12:15.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StatusDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\TarefasStatus\\Data\\StatusDBContext.cs",
+              "RelativeDocumentMoniker": "Data\\StatusDBContext.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\TarefasStatus\\Data\\StatusDBContext.cs",
+              "RelativeToolTip": "Data\\StatusDBContext.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABUAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T11:12:15.201Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TarefaController.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\TarefasStatus\\Controllers\\TarefaController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TarefaController.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\TarefasStatus\\Controllers\\TarefaController.cs",
+              "RelativeToolTip": "Controllers\\TarefaController.cs",
+              "ViewState": "AQIAAGkAAAAAAAAAAAAwwHwAAABgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T11:12:15.215Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20240621113143_CriarBanco.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\TarefasStatus\\Migrations\\20240621113143_CriarBanco.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240621113143_CriarBanco.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\TarefasStatus\\Migrations\\20240621113143_CriarBanco.cs",
+              "RelativeToolTip": "Migrations\\20240621113143_CriarBanco.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T11:31:43.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TarefasStatus.csproj",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\TarefasStatus\\TarefasStatus.csproj",
+              "RelativeDocumentMoniker": "TarefasStatus.csproj",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\TarefasStatus\\TarefasStatus.csproj",
+              "RelativeToolTip": "TarefasStatus.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-21T11:12:15.26Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
