@@ -28,10 +28,11 @@
 ## Configuração do Projeto ⚙️
 - Baixe ou Clone o projeto.
 - Acesse o código com a IDE Visual Studio.
+- Banco de dados utilizado: pgAdmin (postgreSQL).
 - No terminal digite o comando para criar o banco de dados:
   ```
   update-database
-  ```
+  ```  
 - ⚠ Atenção: Se o Projeto não tiver Migration (conexão com o banco de dados), digite os comandos no terminal para a criação da conexão:
     ```
   add-migration CriarBanco
