@@ -71,8 +71,8 @@ namespace TarefasStatus.Controllers
             //Se tarefa não tiver sido criada, ela não pode passar para o status Em progresso (retorna codigo 400 se não foi bem sucedido)
         }
 
-        [HttpPut("{id}/completada")]
-        public async Task<IActionResult> TarefaCompleta(int id)
+        [HttpPut("{id}/concluida")]
+        public async Task<IActionResult> TarefaConcluida(int id)
         {
             var tarefa = await _context.TarefasModel.FindAsync(id);
 
@@ -90,7 +90,7 @@ namespace TarefasStatus.Controllers
             }
             else
             {
-                return BadRequest("A tarefa não pode ser completada!");
+                return BadRequest("A tarefa não pode ser concluída!");
             }
 
             return NoContent();

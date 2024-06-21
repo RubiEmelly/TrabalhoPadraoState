@@ -1533,11 +1533,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Aluno\\Desktop\\TarefasStatus\\TarefasStatus.csproj",
+      "projectUniqueName": "C:\\Users\\Aluno\\Desktop\\TrabalhoPadraoState\\TarefasStatus\\TarefasStatus.csproj",
       "projectName": "TarefasStatus",
-      "projectPath": "C:\\Users\\Aluno\\Desktop\\TarefasStatus\\TarefasStatus.csproj",
+      "projectPath": "C:\\Users\\Aluno\\Desktop\\TrabalhoPadraoState\\TarefasStatus\\TarefasStatus.csproj",
       "packagesPath": "C:\\Users\\Aluno\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Aluno\\Desktop\\TarefasStatus\\obj\\",
+      "outputPath": "C:\\Users\\Aluno\\Desktop\\TrabalhoPadraoState\\TarefasStatus\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Aluno\\AppData\\Roaming\\NuGet\\NuGet.Config",

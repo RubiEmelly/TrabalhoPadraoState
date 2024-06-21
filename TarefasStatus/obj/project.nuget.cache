@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JZCR+3z1GZKUvz66ZSOjKq3wHziTqI+ccOKV3Snxzp5aivNNSMCAuAMHBIkQuV2j5hqK5kN0CDSQztK20rGeEg==",
+  "dgSpecHash": "emO6s8tDj12Nr3Bx/4Fo+ALHeSvI6ByDzSRVeD1qkPPCDyLa3hcXFv1//q2/Uteqq2J/EDnSGZhPW5TZyGF01A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Aluno\\Desktop\\TarefasStatus\\TarefasStatus.csproj",
+  "projectFilePath": "C:\\Users\\Aluno\\Desktop\\TrabalhoPadraoState\\TarefasStatus\\TarefasStatus.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Aluno\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\Aluno\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.14\\microsoft.aspnetcore.openapi.7.0.14.nupkg.sha512",
